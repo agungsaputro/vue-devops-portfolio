@@ -93,7 +93,7 @@ export default {
 						/>
 						<img
 							v-else
-							src="@/assets/images/DevOps4.svg"
+							src="@/assets/images/DevOps5.svg"
 							class="w-36"
 							alt="Light Logo"
 						/>
