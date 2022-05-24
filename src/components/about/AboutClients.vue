@@ -7,47 +7,47 @@ export default {
 	},
 	data: () => {
 		return {
-			clientsHeading: 'Some of the brands I have worked with',
+			clientsHeading: 'Some of the technologies I am good at',
 			clients: [
 				{
 					id: 1,
-					title: 'Amazon',
-					img: require('@/assets/images/brands/amazon_gray.png'),
+					title: 'kubernetes',
+					img: require('@/assets/images/brands/Kubernetes.png'),
 				},
 				{
 					id: 2,
-					title: 'Sony',
-					img: require('@/assets/images/brands/sony_gray.png'),
+					title: 'docker',
+					img: require('@/assets/images/brands/Dockerku.png'),
 				},
 				{
 					id: 3,
-					title: 'Adidas',
-					img: require('@/assets/images/brands/adidas_gray.png'),
+					title: 'azure',
+					img: require('@/assets/images/brands/Azure.png'),
 				},
 				{
 					id: 4,
-					title: 'FILA',
-					img: require('@/assets/images/brands/fila_gray.png'),
+					title: 'gcp',
+					img: require('@/assets/images/brands/gcp.png'),
 				},
 				{
 					id: 5,
-					title: 'NB',
-					img: require('@/assets/images/brands/nb_gray.png'),
+					title: 'aws',
+					img: require('@/assets/images/brands/aws.png'),
 				},
 				{
 					id: 6,
-					title: 'SAMSUNG',
-					img: require('@/assets/images/brands/samsung_gray.png'),
+					title: 'digitalocean',
+					img: require('@/assets/images/brands/DigitalOcean.png'),
 				},
 				{
 					id: 7,
-					title: 'CANON',
-					img: require('@/assets/images/brands/canon_gray.png'),
+					title: 'github',
+					img: require('@/assets/images/brands/GitHub.png'),
 				},
 				{
-					id: 7,
-					title: 'PUMA',
-					img: require('@/assets/images/brands/puma_gray.png'),
+					id: 8,
+					title: 'gitlab',
+					img: require('@/assets/images/brands/GitLab.png'),
 				},
 			],
 		};
