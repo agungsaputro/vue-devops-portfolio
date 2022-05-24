@@ -16,9 +16,9 @@ export default {
 	data: () => {
 		return {
 			singleProjectHeader: {
-				singleProjectTitle: 'Project Management UI',
+				singleProjectTitle: 'Google Cloud Platform Migrations',
 				singleProjectDate: 'Jul 26, 2021',
-				singleProjectTag: 'UI / Frontend',
+				singleProjectTag: 'Cloud Computing',
 			},
 			projectImages: [
 				{
@@ -43,22 +43,22 @@ export default {
 					{
 						id: 1,
 						title: 'Name',
-						details: 'Company Ltd',
+						details: 'Amarta Solusindo',
 					},
 					{
 						id: 2,
 						title: 'Services',
-						details: 'UI Design & Frontend Development',
+						details: 'Cloud Migration Consulting',
 					},
 					{
 						id: 3,
 						title: 'Website',
-						details: 'https://company.com',
+						details: 'https://amastasolusindo.com',
 					},
 					{
 						id: 4,
 						title: 'Phone',
-						details: '555 8888 888',
+						details: '+62 812-898-9000',
 					},
 				],
 				objectivesHeading: 'Objective',
@@ -68,12 +68,12 @@ export default {
 					{
 						title: 'Tools & Technologies',
 						techs: [
-							'HTML',
-							'CSS',
-							'JavaScript',
-							'Vue.js',
-							'TailwindCSS',
-							'AdobeXD',
+							'Terraform',
+							'GCP',
+							'GKE',
+							'Compute Engine',
+							'Google Cloud Storage',
+							'Ansible',
 						],
 					},
 				],
@@ -106,13 +106,13 @@ export default {
 						id: 1,
 						name: 'Twitter',
 						icon: 'twitter',
-						url: 'https://twitter.com/realstoman',
+						url: 'https://twitter.com/',
 					},
 					{
 						id: 2,
 						name: 'Instagram',
 						icon: 'instagram',
-						url: 'https://instagram.com/realstoman',
+						url: 'https://instagram.com/',
 					},
 					{
 						id: 3,
@@ -130,7 +130,7 @@ export default {
 						id: 5,
 						name: 'Youtube',
 						icon: 'youtube',
-						url: 'https://www.youtube.com/c/StomanStudio',
+						url: 'https://www.youtube.com/',
 					},
 				],
 			},
