@@ -24,17 +24,17 @@ export default {
 				{
 					id: 1,
 					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/ui-project-1.jpg'),
+					img: require('@/assets/images/azure-project-1.png'),
 				},
 				{
 					id: 2,
 					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/web-project-2.jpg'),
+					img: require('@/assets/images/microservice-project.jpg'),
 				},
 				{
 					id: 3,
 					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/mobile-project-2.jpg'),
+					img: require('@/assets/images/eks.png'),
 				},
 			],
 			projectInfo: {
@@ -63,7 +63,7 @@ export default {
 				],
 				objectivesHeading: 'Objective',
 				objectivesDetails:
-					'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
+					'even as many businesses rush to adopt cloud computing processes, it is not an easy initiative. Cloud migration introduces its own challenges. Whether you are looking to take advantage of cloud infrastructure, platforms, or software services, use these solutions to help you navigate a successful migration.',
 				technologies: [
 					{
 						title: 'Tools & Technologies',
@@ -82,22 +82,22 @@ export default {
 					{
 						id: 1,
 						details:
-							'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+							'In the long run, the cost of cloud migration sees returns of increased efficiency, lower admin costs, and streamlined processes. But getting there can still feel like an (expensive) uphill battle.',
 					},
 					{
 						id: 2,
 						details:
-							'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+							'Financial concerns touch on almost every challenge of migration. There’s the immediate cost to make the migration itself in addition to the long-term financial risks of low or slow adoption and training after the migration has occurred.',
 					},
 					{
 						id: 3,
 						details:
-							'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+							'The solution to cloud migration costs is Companies can keep cloud computing costs low by implementing these three strategies. Focus on planning, Follow a batch adoption process, Migrate to a hybrid cloud',
 					},
 					{
 						id: 4,
 						details:
-							'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+							'The financial investment and risks associated with a cloud migration can be daunting. But with careful evaluation and planning, you can navigate those obstacles and map a path to success.',
 					},
 				],
 				socialSharingsHeading: 'Share This',

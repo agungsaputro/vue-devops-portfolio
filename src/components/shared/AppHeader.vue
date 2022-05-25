@@ -21,22 +21,22 @@ export default {
 				{
 					id: 1,
 					value: 'web',
-					name: 'Web Application',
+					name: 'Cloud Computing',
 				},
 				{
 					id: 2,
 					value: 'mobile',
-					name: 'Mobile Application',
+					name: 'Kubernetes',
 				},
 				{
 					id: 3,
 					value: 'ui-ux',
-					name: 'UI/UX Design',
+					name: 'Microservices',
 				},
 				{
 					id: 4,
 					value: 'branding',
-					name: 'Branding & Anim',
+					name: 'DevOps',
 				},
 			],
 		};
