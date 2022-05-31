@@ -6,37 +6,37 @@ const projects = [
 		id: 1,
 		title: 'Google Cloud Platform Migrations',
 		category: 'Cloud Computing',
-		img: require('@/assets/images/web-project-2.jpg'),
+		img: 'https://storage.googleapis.com/dicodingku/web-project-2.jpg',
 	},
 	{
 		id: 2,
 		title: 'Implementing AWS Elastic Kubernetes Service',
 		category: 'Kubernetes',
-		img: require('@/assets/images/eks.png'),
+		img: 'https://storage.googleapis.com/dicodingku/eks.png',
 	},
 	{
 		id: 3,
 		title: 'Provisoning Infrastructure Google Cloud Platform',
 		category: 'Provisioning',
-		img: require('@/assets/images/ui-project-1.jpg'),
+		img: 'https://storage.googleapis.com/dicodingku/ui-project-1.jpg',
 	},
 	{
 		id: 4,
 		title: 'Create CI/CD Pipeline in Digital Ocean',
 		category: 'DevOps',
-		img: require('@/assets/images/ui-project-2.jpg'),
+		img: 'https://storage.googleapis.com/dicodingku/ui-project-2.jpg',
 	},
 	{
 		id: 5,
 		title: 'Setup Monitoring In Microsoft Azure',
 		category: 'Cloud Computing',
-		img: require('@/assets/images/azure-project-1.png'),
+		img: 'https://storage.googleapis.com/dicodingku/azure-project-1.png',
 	},
 	{
 		id: 6,
 		title: 'Restructuring Microservices App',
 		category: 'Microservices',
-		img: require('@/assets/images/microservice-project.jpg'),
+		img: 'https://storage.googleapis.com/dicodingku/microservice-project.jpg',
 	},
 ];
 

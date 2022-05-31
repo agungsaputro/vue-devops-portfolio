@@ -12,42 +12,42 @@ export default {
 				{
 					id: 1,
 					title: 'kubernetes',
-					img: require('@/assets/images/brands/Kubernetes.png'),
+					img: 'https://storage.googleapis.com/dicodingku/Kubernetes.png',
 				},
 				{
 					id: 2,
 					title: 'docker',
-					img: require('@/assets/images/brands/Dockerku.png'),
+					img: 'https://storage.googleapis.com/dicodingku/Dockerku.png',
 				},
 				{
 					id: 3,
 					title: 'azure',
-					img: require('@/assets/images/brands/Azure.png'),
+					img: 'https://storage.googleapis.com/dicodingku/Azure.png',
 				},
 				{
 					id: 4,
 					title: 'gcp',
-					img: require('@/assets/images/brands/gcp.png'),
+					img: 'https://storage.googleapis.com/dicodingku/gcp.png',
 				},
 				{
 					id: 5,
 					title: 'aws',
-					img: require('@/assets/images/brands/aws.png'),
+					img: 'https://storage.googleapis.com/dicodingku/aws.png',
 				},
 				{
 					id: 6,
 					title: 'digitalocean',
-					img: require('@/assets/images/brands/DigitalOcean.png'),
+					img: 'https://storage.googleapis.com/dicodingku/DigitalOcean.png',
 				},
 				{
 					id: 7,
 					title: 'github',
-					img: require('@/assets/images/brands/GitHub.png'),
+					img: 'https://storage.googleapis.com/dicodingku/GitHub.png',
 				},
 				{
 					id: 8,
 					title: 'gitlab',
-					img: require('@/assets/images/brands/GitLab.png'),
+					img: 'https://storage.googleapis.com/dicodingku/GitLab.png',
 				},
 			],
 		};

@@ -23,7 +23,7 @@ export default {
 		<!-- About profile image -->
 		<div class="w-full sm:w-1/4 mb-7 sm:mb-0">
 			<img
-				src="@/assets/images/profileku.jpg"
+				src="https://storage.googleapis.com/dicodingku/profileku.jpg"
 				class="rounded-xl w-96"
 				alt=""
 			/>
