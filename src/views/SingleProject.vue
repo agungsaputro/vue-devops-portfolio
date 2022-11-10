@@ -24,17 +24,17 @@ export default {
 				{
 					id: 1,
 					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/azure-project-1.png'),
+					img: 'https://storage.googleapis.com/dicodingku/azure-project-1.png',
 				},
 				{
 					id: 2,
 					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/microservice-project.jpg'),
+					img: 'https://storage.googleapis.com/dicodingku/microservice-project.jpg',
 				},
 				{
 					id: 3,
 					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/eks.png'),
+					img: 'https://storage.googleapis.com/dicodingku/eks.png',
 				},
 			],
 			projectInfo: {
@@ -140,22 +140,22 @@ export default {
 					{
 						id: 1,
 						title: 'Mobile UI',
-						img: require('@/assets/images/mobile-project-1.jpg'),
+						img: 'https://storage.googleapis.com/dicodingku/microservice-project.jpg',
 					},
 					{
 						id: 2,
 						title: 'Web Application',
-						img: require('@/assets/images/web-project-1.jpg'),
+						img: 'https://storage.googleapis.com/dicodingku/web-project-1.jpg',
 					},
 					{
 						id: 3,
 						title: 'UI Design',
-						img: require('@/assets/images/ui-project-2.jpg'),
+						img: 'https://storage.googleapis.com/dicodingku/ui-project-2.jpg',
 					},
 					{
 						id: 4,
 						title: 'Kabul Mobile App UI',
-						img: require('@/assets/images/mobile-project-2.jpg'),
+						img: 'https://storage.googleapis.com/dicodingku/mobile-project-2.jpg',
 					},
 				],
 			},
